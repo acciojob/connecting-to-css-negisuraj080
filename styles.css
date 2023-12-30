@@ -1,1 +1,44 @@
 /* Your CSS code here. */
+/* Global Styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header Styles */
+header {
+    background-color: #e5e5e5;
+    padding: 20px;
+}
+
+/* Navigation Bar Styles */
+nav {
+    background-color: black;
+    padding: 10px;
+    color: white;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Main Section Styles */
+main {
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+
+/* Sidebar Styles */
+aside {
+    background-color: lightgray;
+    padding: 20px;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #e5e5e5;
+    padding: 20px;
+}
+
